@@ -16,7 +16,7 @@ const columnSectionAreaResults = (req, res) => {
         // Construct JSON object for current load
         const result = {
             colWidthMm : colWidth,
-            ColumnSectionAreaMm : ColumnSectionArea
+            ColumnSectionAreaMm2 : ColumnSectionArea
         };
     // Add result to array
     results.push(result);
